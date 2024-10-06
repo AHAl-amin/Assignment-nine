@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Modern Family Home",
+    "segment_name": "Single Family Home",
+    "description": "A stunning modern family home with breathtaking views.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "2500 sq ft",
+    "location": "123 Main Street, Anytown, USA",
+    "facilities": [
+      "living room",
+      "swimming pool",
+      "kitchen",
+      "backyard garden"
+    ],
+    "image": "https://i.ibb.co/yR5zck1/deborah-cortelazzi-g-REqu-CUXQLI-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Modern Townhouse Living",
+    "segment_name": "Townhouse",
+    "description": "Experience modern living in this stylish townhouse.",
+    "price": "$600,000",
+    "status": "sale",
+    "area": "1800 sq ft",
+    "location": "123 Main Street, Urban City, USA",
+    "facilities": [
+      "living room",
+      "rooftop terrace",
+      "garage"
+    ],
+    "image": "https://i.ibb.co/BtDF6gG/istockphoto-1449212413-170667a.webp "
+  },
+  {
+    "id": 3,
+    "estate_title": "Luxury City Apartment",
+    "segment_name": "Apartment",
+    "description": "Experience luxury living in the heart of the city.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "2200 sq ft",
+    "location": "789 Broadway, Urban Center, USA",
+    "facilities": [
+      "living room",
+      "swimming pool",
+      "gym"
+    ],
+    "image": " https://i.ibb.co/TgTMR5B/pexels-photo-106399.jpg"
+  },
+  {
+
+    "id": 4,
+    "estate_title": "Modern Student Dormitory",
+    "segment_name": "Student Housing",
+    "description": "A modern dormitory designed for student living.",
+    "price": "$600/month",
+    "status": "rent",
+    "area": "150 sq ft (per room)",
+    "location": "123 University Avenue, College Town, USA",
+    "facilities": ["shared kitchen", "study lounge", "laundry room"],
+    "image": "https://i.ibb.co/tBhVGtf/young-kids-trick-treating-halloween-53876-49106.jpg  "
+
+ 
+  },
+  {
+
+    "id": 5,
+    "estate_title": "Golden Acres Retirement Community",
+    "segment_name": "Senior Living",
+    "description": "An exclusive retirement community offering luxury amenities and services.",
+    "price": "$5,000/month",
+    "status": "rent",
+    "area": "1000 sq ft",
+    "location": "123 Serenity Lane, Tranquil Town, USA",
+    "facilities": ["restaurant", "swimming pool", "fitness center", "library"],
+    "image": "https://i.ibb.co/HFTBqzJ/0-z6-Tdy-Uyjf-DTSg6yc.webp"
+
+  },
+  {
+
+    "id": 6,
+    "estate_title": "Seaside Villa Retreat",
+    "segment_name": "Vacation Rentals",
+    "description": "A luxurious villa with stunning ocean views, perfect for a relaxing getaway.",
+    "price": "$300/night",
+    "status": "rent",
+    "area": "2500 sq ft",
+    "location": "123 Beachfront Avenue, Coastal Town, USA",
+    "facilities": ["private beach access", "pool", "hot tub", "game room"],
+    "image": "https://i.ibb.co/cJvVq71/istockphoto-483773209-170667a.webp"
+
+
+
+
+  }
+]
